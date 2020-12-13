@@ -16,3 +16,4 @@ setup(name='regsens_rgiordandev',
         'vittles >= 0.171',
         'ipykernel' ],
       packages=['regsens_rgiordandev'])
+
